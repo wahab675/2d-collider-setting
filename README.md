@@ -1,4 +1,4 @@
-# 2d-collider-setting
+# 2d-collider-setting according to screen resolution
 void SetScreenColliders()
  {
      float aspect = (float)Screen.width / Screen.height;
